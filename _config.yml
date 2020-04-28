@@ -4,8 +4,8 @@ description:
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "https://hoyoung4292.github.io/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://hoyoung4292.github.io/" # the base hostname & protocol for your site
 
 pagination:
 
