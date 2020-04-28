@@ -1,5 +1,5 @@
 # Site settings
-title: Project. Y
+title: ProJect.Y
 description: 
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
@@ -24,7 +24,7 @@ github:  github
 
 #Additional Pages
 about: about
-동물상테스트: "https://hoyoung4292.github.io/"
+face-Photo: "https://facephoto.site/"
 privacy-policy: privacy-policy
 
 
@@ -48,7 +48,7 @@ plugins:
 safe: False
 lsi: False
 username: samanyougarg #github username
-repo: hanuman #github repository
+repo: ProJect.H #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
