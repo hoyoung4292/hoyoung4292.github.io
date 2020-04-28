@@ -1,6 +1,6 @@
 # Site settings
-title: Project.Y
-description: Project.Yis a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Project. Y
+description: 
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -24,7 +24,7 @@ github:  github
 
 #Additional Pages
 about: about
-contact: contact
+동물상테스트: "https://hoyoung4292.github.io/"
 privacy-policy: privacy-policy
 
 
